@@ -469,3 +469,88 @@ case,age_gender,health_unit,hospital,transmision,status,pull_date,pull_time,upda
 501,pending,pending,NA,pending,pending,2020-03-23,2020-03-23T23:22:10Z,2020-03-23
 502,pending,pending,NA,pending,pending,2020-03-23,2020-03-23T23:22:10Z,2020-03-23
 503,pending,pending,NA,pending,pending,2020-03-23,2020-03-23T23:22:10Z,2020-03-23
+504,30s Male,Kingston Frontenac Lennox Addington,NA,travel (UK),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+505,70s Female,Kingston Frontenac Lennox Addington,NA,travel (Singapore),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+506,70s Male,Kingston Frontenac Lennox Addington,NA,travel (Singapore),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+507,40s Female,Waterloo,NA,pending,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+508,30s Female,Toronto,NA,pending,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+509,40s Female,Brant,NA,pending,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+510,20s Female,Peel,NA,pending,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+511,30s Female,Halton,NA,travel (UK),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+512,80s Male,Wellington Dufferin Guelph,NA,pending,hospitalized,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+513,30s Female,Grey Bruce,NA,travel (Italy),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+514,40s Male,Windsor Essex,NA,travel (USA),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+515,50s Female,Hamilton,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+516,30s Female,Hamilton,NA,close contact,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+517,60s Male,Hamilton,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+518,40s Male,Niagara,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+519,60s Male,Waterloo,NA,pending,hospitalized,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+520,30s Female,Ottawa,NA,close contact,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+521,40s Male,Ottawa,NA,close contact,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+522,30s Male,Toronto,NA,close contact,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+523,80s Male,York,NA,pending,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+524,40s Male,York,NA,pending,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+525,60s Female,York,NA,close contact,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+526,60s Male,Toronto,NA,pending,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+527,50s Female,Toronto,NA,pending,self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+528,70s Female,Sudbury,NA,travel (USA),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+529,50s Female,Peel,NA,travel (Dubai),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+530,50s Male,Ottawa,NA,travel (USA),self-isolating,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+531,30s Male,Toronto,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+532,70s Male,Toronto,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+533,50s Male,Toronto,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+534,70s Male,Toronto,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+535,20s Female,Toronto,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+536,60s Male,Toronto,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+537,50s Female,Durham,NA,travel (USA),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+538,70s Male,York,NA,travel (USA),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+539,40s Male,Durham,NA,travel,self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+540,50s Male,Toronto,NA,travel (USA),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+541,50s Male,Toronto,NA,travel (Austria),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+542,30s Female,Toronto,NA,travel (USA),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+543,60s Male,York,NA,pending,self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+544,60s Female,Peel,NA,travel (Dubai),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+545,50s Female,Toronto,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+546,50s Male,Toronto,NA,travel (Austria),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+547,50s Female,Toronto,NA,travel (Austria),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+548,30s Male,Toronto,NA,travel (Brazil),self-isolation,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+549,90s Female,Durham,NA,pending,deceased,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+550,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+551,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+552,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+553,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+554,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+555,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+556,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+557,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+558,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+559,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+560,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+561,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+562,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+563,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+564,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+565,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+566,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+567,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+568,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+569,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+570,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+571,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+572,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+573,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+574,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+575,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+576,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+577,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+578,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+579,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+580,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+581,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+582,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+583,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+584,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+585,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+586,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+587,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
+588,pending,pending,NA,pending,pending,2020-03-24,2020-03-25T01:39:25Z,2020-03-24
