@@ -4,6 +4,10 @@ The data is collected from the Ontario Ministry of Health's (MOH) website. Updat
 
 # Update
 
+## April 13, 2020
+
+Adding a daily forecast plot for Ontario based on best fit logistics function. Historical fits are in the forecast_plots folder. To view the dynamic HTML file you must download it first to your computer then open it with your favorite browser.
+
 ## March 30, 2020
 
 Ministry of Health has updated the source data they use to report cases. As a result, there was a slight revision to the numbers reported for March 29, 2020. The biggest change is to the number of positive case (going up from 1,324 to 1,706), cases resolved (going up from 8 to 431) as well as the number of cases under investigation (going down from 7,203 to 5,651). There was also a slight revision to the number of test conducted (revised downward by about 1,000 cases) and number of negative cases (going up by 20). 
@@ -25,3 +29,7 @@ Ministry of Health has stopped publishing details of each case on their website.
 ## cases_ts.csv
 
 Time series data of cased details by day. There is a lot of missing data especially for more recent cases. Unfortunately, as far as I know, the Ministry does not publish updates to the data so I cannot update the case details. 
+
+# Forecast plot for Ontario
+
+![forecast](forecast_plots/daily.svg)
