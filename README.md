@@ -2,11 +2,15 @@
 
 The data is collected from the Ontario Ministry of Health's (MOH) website. Updated daily and uploaded to this REPO. For details on the data  see Ontario Ministry of Health's website https://www.ontario.ca/page/2019-novel-coronavirus
 
-# Update
+# Forecast for Ontario
+
+![forecast](forecast_plots/daily.svg)
+
+# Updates
 
 ## April 13, 2020
 
-Adding a daily forecast plot for Ontario based on best fit logistics function. Historical fits are in the forecast_plots folder. To view the dynamic HTML file you must download it first to your computer then open it with your favorite browser.
+Adding a daily forecast plot for Ontario based on best fit logistics function. Historical fits are in the forecast_plots folder. To view the dynamic HTML file you must download it to your computer then open it with your favorite browser.
 
 ## March 30, 2020
 
@@ -30,6 +34,3 @@ Ministry of Health has stopped publishing details of each case on their website.
 
 Time series data of cased details by day. There is a lot of missing data especially for more recent cases. Unfortunately, as far as I know, the Ministry does not publish updates to the data so I cannot update the case details. 
 
-# Forecast plot for Ontario
-
-![forecast](forecast_plots/daily.svg)
