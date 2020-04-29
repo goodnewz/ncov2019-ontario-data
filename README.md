@@ -1,12 +1,17 @@
 # Ontario data of corona virus cases
 
-The data is collected from the Ontario Ministry of Health's (MOH) website. Updated daily and uploaded to this REPO. For details on the data  see Ontario Ministry of Health's website https://www.ontario.ca/page/2019-novel-coronavirus
+The data is collected from the Ontario Ministry of Health's (MOH) website. Updated daily and uploaded to this REPO. For details on the data  see Ontario Ministry of Health's website [https://www.ontario.ca/page/2019-novel-coronavirus](https://www.ontario.ca/page/2019-novel-coronavirus)
 
 # Forecast for Ontario
 
 ![forecast](forecast_plots/daily.svg)
 
 # Updates
+
+## April 29, 2019
+
+Ontario Ministry of Health now publishes this data as part of Ontario Open Data Catalog. Link to the Ministry's source is [https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario). 
+I have updated my dataset with the missing data before Feb 18, 2020  and plugged in some holes since Feb 18.
 
 ## April 13, 2020
 
