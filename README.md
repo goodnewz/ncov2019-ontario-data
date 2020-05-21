@@ -2,6 +2,19 @@
 
 The data is collected from the Ontario Ministry of Health's (MOH) website. Updated daily and uploaded to this REPO. For details on the data  see Ontario Ministry of Health's website [https://www.ontario.ca/page/2019-novel-coronavirus](https://www.ontario.ca/page/2019-novel-coronavirus)
 
+# Current cases
+
+The figures below show the number of current active cases as well as the dynamics of those cases – how many new cases have been acquired, how many have been resolved and how many deaths have occurred.
+
+## Active cases in Ontario
+
+![active](forecast_plots/active_plot.svg)
+
+
+## Dynamics of new cases in Ontario
+
+![dynamics](forecast_plots/dynamics_plot.svg)
+
 # Forecast for Ontario
 
 ![forecast](forecast_plots/daily.svg)
@@ -38,4 +51,3 @@ Ministry of Health has stopped publishing details of each case on their website.
 ## cases_ts.csv
 
 Time series data of cased details by day. There is a lot of missing data especially for more recent cases. Unfortunately, as far as I know, the Ministry does not publish updates to the data so I cannot update the case details. 
-
