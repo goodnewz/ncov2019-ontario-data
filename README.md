@@ -11,6 +11,9 @@ The figures below show the number of current active cases as well as the dynamic
 ![active](forecast_plots/active_plot.svg)
 
 
+## Positive cases as % of tested individuals
+![proportion](forecast_plots/proportion_plot.svg)
+
 ## Dynamics of new cases in Ontario
 
 ![dynamics](forecast_plots/dynamics_plot.svg)
@@ -20,6 +23,9 @@ The figures below show the number of current active cases as well as the dynamic
 ![forecast](forecast_plots/daily.svg)
 
 # Updates
+
+##  September 28, 2020
+Adding a new plot – the proportion of positive tests by day. The dynamics of cases plot has become meaningless because of the amount of new test conducted every day. Currently, there are around 40,000 cases performed every day. Previously there much less. The raw number of new cases will be much larger, even though the total number of new cases as a proportion of the general population might not have changed. This plot tries to standardize these new case numbers for the amounts of tests performed. 
 
 ## April 29, 2019
 
