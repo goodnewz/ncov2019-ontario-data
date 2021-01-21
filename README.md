@@ -18,10 +18,6 @@ The figures below show the number of current active cases as well as the dynamic
 
 ![dynamics](forecast_plots/dynamics_plot.svg)
 
-# Forecast for Ontario
-
-![forecast](forecast_plots/daily.svg)
-
 # Updates
 
 ##  September 28, 2020
