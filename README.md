@@ -11,7 +11,7 @@ The figures below show the number of current active cases as well as the dynamic
 ![active](forecast_plots/active_plot.svg)
 
 
-## Positive cases as % of tested individuals
+## Positive cases as % of tested individuals including a 7-day forecast of positivity rate
 ![proportion](forecast_plots/proportion_plot.svg)
 
 ## Dynamics of new cases in Ontario
